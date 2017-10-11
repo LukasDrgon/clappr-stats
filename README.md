@@ -1,5 +1,6 @@
 [![npm version](https://badge.fury.io/js/clappr-stats.svg)](https://badge.fury.io/js/clappr-stats)
 [![license](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/clappr-stats/badge?style=rounded)](https://www.jsdelivr.com/package/npm/clappr-stats)
 
 # Usage
 
